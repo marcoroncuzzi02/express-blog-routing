@@ -71,4 +71,4 @@ const posts = [
         res.send('Eliminazione del post ' + req.params.id);
     });
 
-module.exports = posts;
+module.exports = router;
